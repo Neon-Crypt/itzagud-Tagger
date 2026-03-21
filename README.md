@@ -2,7 +2,7 @@
 
 A lightweight userscript to tag, highlight, and manage users on ItzaGud auctions — all in real-time with a sleek Neon-style widget.
 
-> **GUI inspired by:** [ItzaGudStats](https://github.com/MeguminShiro/itzagudstats) by MeguminShiro
+> **Inspired by:** [ItzaGudStats](https://github.com/MeguminShiro/itzagudstats) by MeguminShiro & [ItzaGudStats Fork](https://github.com/YLBlack/itzagudstats) by YLBlack
 
 ---
 
