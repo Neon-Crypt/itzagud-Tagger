@@ -58,4 +58,4 @@ A lightweight userscript to tag, highlight, and manage users on ItzaGud auctions
 
 ### ⚙️ Customization
 
-You can tweak the badge styles and widget colors directly in the script for a personalized Neon experience.
+You can tweak the badge styles and widget colors directly in the script for a personalized experience.
