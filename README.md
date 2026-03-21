@@ -1,6 +1,6 @@
 # 💟 ItzaGud Tagger (NeonScript)
 
-A lightweight userscript to tag, highlight, and manage users on ItzaGud auctions — all in real-time with a sleek Neon-style widget.
+A lightweight userscript to tag, highlight, and manage users on ItzaGud auctions — all in real-time with a sleek widget.
 
 > **Inspired by:** [ItzaGudStats](https://github.com/MeguminShiro/itzagudstats) by MeguminShiro & [ItzaGudStats Fork](https://github.com/YLBlack/itzagudstats) by YLBlack
 
