@@ -26,6 +26,7 @@ A lightweight userscript to tag, highlight, and manage users on ItzaGud auctions
 * ⚡ **Real-Time Tagging:** Instantly updates badges across auction pages.
 * 🧠 **Smart Scanning:** Optimized for speed — no lag even on large pages.
 * 💾 **Local Storage:** All tags are saved in your browser — no external storage needed.
+* 📋 Import & Export Tags: Copy your tag list to the clipboard or import from a clipboard JSON to share or restore your tags.
 * 🖱️ **Draggable UI:** Minimal Neon-style widget (GUI adapted from [ItzaGudStats](https://github.com/MeguminShiro/itzagudstats)).
 * 👁️ **Toggle Visibility:** Show or hide the widget with a single click.
 
