@@ -1,4 +1,4 @@
-# 💟 ItzaGud Tagger (NeonScript)
+# ❤️‍🔥 ItzaGud Tagger (NeonScript)
 
 A lightweight userscript to tag, highlight, and manage users on ItzaGud auctions — all in real-time with a sleek widget.
 
