@@ -1,12 +1,16 @@
 // ==UserScript==
-// @name         [Neon] itzagud Tagger
-// @description Tag resellers, trusted bidders etc. on itzagud auctions.
-// @author      Neon Crypt
-// @iconURL     https://www.itzagud.net/apple-touch-icon.png
-// @match       *://www.itzagud.net/auctions*
-// @grant       none
-// @run-at      document-end
-// @version     1.0
+// @name         itzagud Tagger
+// @namespace    https://github.com/Neon-Crypt/itzagud-Tagger
+// @description  Tag resellers, trusted bidders etc. on itzagud auctions.
+// @author       Neon Crypt
+// @version      1.0
+// @license      CC BY 4.0
+// @iconURL      https://www.itzagud.net/apple-touch-icon.png
+// @match        *://www.itzagud.net/auctions*
+// @updateURL    https://raw.githubusercontent.com/Neon-Crypt/itzagud-Tagger/main/script.user.js
+// @downloadURL  https://raw.githubusercontent.com/Neon-Crypt/itzagud-Tagger/main/script.user.js
+// @grant        none
+// @run-at       document-end
 // ==/UserScript==
 
 (function () {
