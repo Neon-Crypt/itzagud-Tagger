@@ -13,13 +13,6 @@ A lightweight userscript to tag, highlight, and manage users on ItzaGud auctions
 
 ---
 
-## Will Look Like
-
-![ItzaGud Tagger Result](assets/result.png)
-*Example of usernames tagged with badges in auction pages.*
-
----
-
 ### ✨ Features
 
 - 🏷️ **Custom Tags** — Label any username (e.g. Reseller, Trusted, Scammer).
